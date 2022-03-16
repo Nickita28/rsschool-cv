@@ -16,6 +16,8 @@
 ## Summary
 
 I want to grouwp my skills with RSSchool!😎
+
+
 ***
 ## Work experience 
  Customs Broker
@@ -24,6 +26,8 @@ I want to grouwp my skills with RSSchool!😎
 
 Event Manger
 10.2020 - 03.2021
+
+
 ***
 ## Skills
 - HTML
@@ -56,12 +60,16 @@ Event Manger
  - Russian - Native
  - English - A(2)
  - Polish - B(2)
+
+
  ***
  ## Courses
  - JavaSacript on [Code Basics](https://ru.code-basics.com/languages/javascript)
  - HTML on [Code Basics](https://ru.code-basics.com/languages/htm)
  - Trailhead [Trailblazer](https://trailblazer.me/id?lang=en_US)
+
  ***
+ 
 ## About myself
 At the moment I am working as an Event Manager in a Polish company.
 But at some point I've realized that this job is not for me, so then I discovered Information Technologies.
