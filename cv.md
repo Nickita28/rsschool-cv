@@ -1,4 +1,40 @@
+# Nikita Antanovich
+ 
+ ## Contact Info
+ Phone: + (48) 572222182
+ 
+ E-mail: greenwayrb4@gmail.com
+ 
+ Telegram : + (48) 572222182
 
+ Facebook : https://www.facebook.com/nikita.antonovich.7
+
+ Discord : Nikita Antanovich#0889
+
+***
+
+## Summary
+
+I want to grouwp my skills with RSSchool!😎
+***
+## Work experience 
+ Customs Broker
+
+ 05.2019 - 07.2020
+
+Event Manger
+10.2020 - 03.2021
+***
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Git
+- Apex
+- SalesForce
+- Heroku
+
+***
 # Code Example
 
 ```public class StringArrayTest {
@@ -34,3 +70,6 @@ I have an outstanding personal skills, I am an excellent team worker as well.
 By the way, I am ready to learn and develop a new skills.
 I am reliable person and always seek of a new responsibilities in a wide range of employment areas.
 My hobbies are traveling and playing hockey, i also like to go skiing when I have a free time. It helps to keep my mind clean after a long working days in front of the laptop.
+
+
+
