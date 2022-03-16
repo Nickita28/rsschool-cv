@@ -43,9 +43,9 @@ Event Manger
 
 ***
 
-# Code Example
+## Code Example
 
-```public class StringArrayTest {
+```sh public class StringArrayTest {
     public static list<String> generateStringArray(Integer length) {
         list<String> myArray = new list<String>();
         for(Integer i=0;i<length;i++) { 
@@ -68,7 +68,7 @@ Event Manger
  ***
 
  ## Courses
- 
+
  - JavaSacript on [Code Basics](https://ru.code-basics.com/languages/javascript)
  - HTML on [Code Basics](https://ru.code-basics.com/languages/htm)
  - Trailhead [Trailblazer](https://trailblazer.me/id?lang=en_US)
