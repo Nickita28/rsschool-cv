@@ -45,7 +45,7 @@ Event Manger
 
 ## Code Example
 
-```sh public class StringArrayTest {
+ ```sh public class StringArrayTest {
     public static list<String> generateStringArray(Integer length) {
         list<String> myArray = new list<String>();
         for(Integer i=0;i<length;i++) { 
