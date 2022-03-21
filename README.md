@@ -1,1 +1,1 @@
-https://github.com/Nickita28/rsschool-cv/blob/gh-pages/cv.md
+https://Nickita28.github.io/rsschool-cv/
