@@ -1,67 +1,118 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway');
-@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
-header img {
-    float: left;
-    margin: 0 0 30px 30px;;
-    max-width: 250px;
-    border-radius: 3%;
-    box-shadow: 0 0 4px;
-    padding: 4px;
-    
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+.img {
+  width: 100%;
+  max-width: 250px;
+  border-radius: 3%;
+  box-shadow: 0 0 4px;
+  padding: 4px;
+}
+.container{
+  display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.container-nav{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container-contact{
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin-left: 47%;
+}
+h1 {
+  font-family: "Montserrat", sans-serif;
+  width: 300px;
+  padding-top: 10px;
+  padding-left: 350px;
+  margin-left: 13%;
 }
 
-    h1 {
-        font-family: 'Montserrat', sans-serif;
-        width: 300px;
-        padding-top: 10px;
-        padding-left: 350px;
-    }
-
-  h3{
-    font-family: 'Montserrat', sans-serif; 
-    width: 400px;
-    padding-top: 10px;
-    padding-left: 350px;
-} 
-  p{
-    font-family: 'Montserrat' sans-serif; 
-    width: 400px;
-    padding-top: 10px;
-    padding-left: 350px;
-  }
-
-  
+h3 {
+  font-family: "Montserrat", sans-serif;
+  width: 400px;
+  padding-top: 10px;
+  padding-left: 82%;
+}
+p {
+  font-family: "Montserrat" sans-serif;
+  width: 400px;
+  padding-top: 10px;
+  padding-left: 75%;
+}
 
 body {
-    float: left;
-    margin: 0;
-    font-size: 16px;
-    line-height: 1.8em;
-    font-family: "Raleway";
-    background-color: rgb(238, 245, 243)
+  font-size: 16px;
+  line-height: 1.8em;
+  font-family: "Raleway";
+  background-color: rgba(239, 238, 245, 0.329);
 }
 
 .link:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 .social a {
-    text-align: center;
-    width: 48px;
-    height: 48px;
-    float: left;
-    background: #fff;
-    border: 1px solid #ccc;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
-    border-radius: 24px;
-    margin: 0 10px 10px 0;
-    padding: 6px;
-    color: #000;
-    margin-top: 250px;
-    
+  text-align: center;
+  width: 48px;
+  height: 48px;
+  background: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15), inset 0 0 50px rgba(0, 0, 0, 0.1);
+  border-radius: 24px;
+  color: #000;
 }
-.facebook a:hover {background: #3b5998; color: #fff;}
-.github a:hover {background: #191919; color: #fff;}
-.telegram a:hover {background: #249bd7; color: #fff;}
-.skype a:hover {background: #00aff0; color: #fff;}
-.instagram a:hover {background: #3f729b; color: #fff;}
+.facebook a:hover {
+  background: #3b5998;
+  color: #fff;
+}
+.github a:hover {
+  background: #191919;
+  color: #fff;
+}
+.telegram a:hover {
+  background: #249bd7;
+  color: #fff;
+}
+.skype a:hover {
+  background: #00aff0;
+  color: #fff;
+}
+.instagram a:hover {
+  background: #3f729b;
+  color: #fff;
+}
+main {
+  max-width: 1024px;
+  margin: auto;
+}
 
+a {
+  color: rgb(28, 51, 50);
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li::before {
+  padding-left: 10px;
+  content: "➤ ";
+  color: rgb(123, 155, 207);
+}
+p {
+  text-indent: 20px;
+}
+
+.container-contact {
+  justify-content: space-around;
+  flex-direction: row;
+  display: flex;
+  width: 47%;
+}
